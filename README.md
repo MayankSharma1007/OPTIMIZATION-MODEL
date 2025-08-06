@@ -65,6 +65,8 @@ Product B should be prioritized in production planning.
 
 Product A may need reevaluation—either its cost structure, pricing, or strategic importance.
 
-
-
 The company could consider adding constraints to ensure a minimum production of Product A if it serves other business goals (e.g., market presence or customer retention).
+
+# OUTPUT:
+
+<img width="544" height="154" alt="Image" src="https://github.com/user-attachments/assets/dcdbfc3d-4f6b-4bc3-877b-f7d89b64422c" />
